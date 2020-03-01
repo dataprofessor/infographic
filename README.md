@@ -1,5 +1,5 @@
-# infographic
-Infographic
+# Data Science Infographic
+List of Data Science Infographic
 
 Number | Title | Preview
 ---|---|---
