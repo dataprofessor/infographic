@@ -8,5 +8,5 @@ Number | Title | Preview
 02 | Handling Missing Data |  <img src="02-Handling-Missing-Data.JPG" alt="Handling Missing Data" title="Handling Missing Data" width="200" />
 .  | Lidando com Dados Faltantes (Portugese Translation of "Handling Missing Data" |  <img src="PT-01-Lidando-com-Dados-Faltantes.JPG" alt="Lidando com Dados Faltantes" title="Lidando com Dados Faltantes" width="200" />
 03 | Machine Learning Learning Curve |  <img src="03-Machine-Learning-Learning-Curve.JPG" alt="Machine Learning Learning Curve" title="Machine Learning Learning Curve" width="200" />
-04 | . |  .
-05 | . |  .
+04 | Data Science Landscape |  <img src="04-Data-Science-Landscape.JPG" alt="Data Science Landscape" title="Data Science Landscape" width="200" />
+05 | Interpretability of Data Science Models | <img src="05-Interpretability-of-Data-Science-Models.JPG" alt="Interpretability of Data Science Models" title="Interpretability of Data Science Models" width="200" />
